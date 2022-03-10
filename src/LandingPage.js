@@ -47,7 +47,7 @@ const LandingPage = () => {
           <span className="title-heading-secondary">I code smart contracts.</span>
         </h1>
         <p className="title-intro">
-          I'm a second year CS/Finance student @ UNSW specializing in building in crypto.<br/>
+          I'm a second year CS/Finance student @ UNSW dedicated to building in crypto since 2017.<br/>
           I'm also the president of <a href="http://uncb.xyz/" rel="noreferrer" target="_blank"><span  className="highlight-secondary">UNCB</span></a> and in my spare time, I play poker & figure skate.
         </p>
         <p className="title-intro" style={{"margin-bottom": "80px"}}>

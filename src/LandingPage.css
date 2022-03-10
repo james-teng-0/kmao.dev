@@ -145,11 +145,6 @@ a {
 /* MEDIA QUERIES */
 /* LARGE LAPTOP */
 @media only screen and (max-width: 1440px) { 
-  #title-wrapper {
-    width: 80%;
-    left: 55%;
-  }
-
   .title-heading {
     font-size: 64px;
   }
@@ -161,6 +156,11 @@ a {
 
 /* LAPTOP */
 @media only screen and (max-width: 1024px) { 
+  #title-wrapper {
+    width: 80%;
+    left: 55%;
+  }
+  
   .title-heading {
     font-size: 48px;
   }

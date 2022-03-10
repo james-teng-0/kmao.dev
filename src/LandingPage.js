@@ -48,10 +48,11 @@ const LandingPage = () => {
         </h1>
         <p className="title-intro">
           I'm a Computer Science/Commerce student @ UNSW specializing in building the blockchain. <br/>
-          I'm also the president & founder of <span className="highlight-secondary">UNCB</span> and I like making funny <span className="highlight-secondary">twitter</span> posts in my spare time.
+          I'm also the president & founder of <a href="http://uncb.xyz/" rel="noreferrer" target="_blank"><span  className="highlight-secondary">UNCB</span></a> and I like making funny 
+          <a href="https://twitter.com/kmao37" rel="noreferrer" target="_blank"><span className="highlight-secondary"> twitter</span></a> posts in my spare time.
         </p>
         <p className="title-intro" style={{"margin-bottom": "80px"}}>
-          Currently, I'm a Software Engineer @ <span className="highlight-secondary">GMI Studios</span> building very cool things...
+          Currently, I'm a Software Engineer @ <a href="http://gmistudios.com.au/" rel="noreferrer" target="_blank"><span className="highlight-secondary">GMI Studios</span></a> building very cool things...
         </p>
         <a className="button" href="blog">Check out my blog!</a>
       </div>

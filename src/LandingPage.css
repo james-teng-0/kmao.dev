@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;800&display=swap');
 
+a {
+  text-decoration: none;
+}
+
 .landing-page-wrapper {
   height: 100vh;
   background-color: #403e52;
@@ -143,7 +147,7 @@
 @media only screen and (max-width: 1440px) { 
   #title-wrapper {
     width: 80%;
-    left: 50%;
+    left: 55%;
   }
 
   .title-heading {

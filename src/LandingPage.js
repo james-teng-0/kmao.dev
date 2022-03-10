@@ -48,7 +48,7 @@ const LandingPage = () => {
         </h1>
         <p className="title-intro">
           I'm a second year CS/Finance student @ UNSW specializing in building in crypto.<br/>
-          I'm also the president of <a href="http://uncb.xyz/" rel="noreferrer" target="_blank"><span  className="highlight-secondary">UNCB</span></a> and I like playing poker & figure skating in my spare time.
+          I'm also the president of <a href="http://uncb.xyz/" rel="noreferrer" target="_blank"><span  className="highlight-secondary">UNCB</span></a> and in my spare time, I play poker & figure skate.
         </p>
         <p className="title-intro" style={{"margin-bottom": "80px"}}>
           Currently, I'm a Software Engineer @ <a href="http://gmistudios.com.au/" rel="noreferrer" target="_blank"><span className="highlight-secondary">GMI Studios</span></a> building cool things...

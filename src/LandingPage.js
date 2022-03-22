@@ -53,7 +53,7 @@ const LandingPage = () => {
         <p className="title-intro" style={{"margin-bottom": "80px"}}>
           Currently, I'm a Software Engineer @ <a href="http://gmistudios.com.au/" rel="noreferrer" target="_blank"><span className="highlight-secondary">GMI Studios</span></a> building cool things...
         </p>
-        <a className="button" href="kmao.blog">Check out my blog!</a>
+        <a className="button" href="https://www.kmao.blog/" target="_blank" rel="noreferrer">Check out my blog!</a>
       </div>
 
       {/* RENDER IF SCREENWIDTH IS ABOVE 768 PX (TABLET)*/}

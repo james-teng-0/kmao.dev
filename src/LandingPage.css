@@ -9,35 +9,6 @@ a {
   background-color: #403e52;
 }
 
-/* NAV BAR STYLING */
-#hamburger-menu {
-  background: none;
-}
-
-#nav-bar {
-  padding-top: 50px;
-}
-
-#nav-right {
-  float: right;
-  margin-right: 3vw;
-}
-
-.nav-item {
-  color: #c1c1c1;
-  text-decoration: none;
-  padding-right: 100px;
-  transition: 0.4s;
-}
-
-.nav-item:hover {
-  color: white;
-}
-
-#resume-button {
-  padding: 15px 40px;
-}
-
 /* MAIN TITLE STYLING */
 
 #title-wrapper {
@@ -119,28 +90,6 @@ a {
 
 #socials-list li:hover {
 }
-
-/* LEARN MORE INDICATOR STYLING */
-#learn-more {
-  cursor: pointer;
-  position: absolute;
-  bottom: 0px;
-  right: 0px;
-
-
-  margin: 0 20px 100px 0;   /* apply margin to right and bottom */
-  font-weight: 500;
-  font-size: 18px;    
-  display: flex;
-  align-items: center;
-  text-align: center;
-
-  color: #C1C1C1;
-
-  transform: rotate(90deg);
-}
-
-
 
 /* MEDIA QUERIES */
 /* LARGE LAPTOP */

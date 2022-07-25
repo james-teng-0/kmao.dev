@@ -29,7 +29,7 @@ const LandingPage = () => {
           I'm presently on program leave from my CS/Finance degree @ UNSW. I've been dedicated to building in crypto since 2017.<br/>
         </p>
         <p className="title-intro">
-          Currently, I work on <a href="http://r3cursive.io/" rel="noreferrer" target="_blank"><span  className="highlight-secondary">R3cursive</span></a> as a founder-contributor & <a href="https://www.augmintedlabs.io/" rel="noreferrer" target="_blank"><span className="highlight-secondary">Augminted Labs</span></a> as a Product Manager.
+          Currently, I work on <a href="http://r3cursive.io/" rel="noreferrer" target="_blank"><span  className="highlight-secondary">R3cursive</span></a> as a founder-contributor.
         </p>
         <p className="title-intro" style={{"margin-bottom": "80px"}}>
           Previously, I was president of <a href="http://uncb.xyz/" rel="noreferrer" target="_blank"><span className="highlight-secondary">UNCB</span></a> & a Software Engineer @ <a href="http://gmistudios.com.au/" rel="noreferrer" target="_blank"><span className="highlight-secondary">GMI Studios</span></a>. In my spare time, I train Muay Thai & card count. 
